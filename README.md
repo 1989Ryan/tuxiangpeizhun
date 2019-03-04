@@ -11,7 +11,7 @@ CV_basic_toolbox/
         __init__.py
     test/
         registration.py
-赵子瑞_自动化钱61班_2160405068.pdf
+赵子瑞_自动化钱61_2160405068.pdf
 code.txt
 .gitignore
 README.md
